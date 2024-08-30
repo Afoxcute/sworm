@@ -153,6 +153,7 @@ const GameInfo = () => {
           Donate now!
         </button>
 
+//
         <br
           style={{
             color: "rgba(143, 143, 144, 0.14) 2px solid",

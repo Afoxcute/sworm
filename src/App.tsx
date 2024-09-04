@@ -36,7 +36,7 @@ function App() {
         <Router>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/wormhole" element={<WormholeConnect />} />
+            <Route path="/wormhole" element={<WormholeConnect config={{"env":"mainnet"}} />} />
             <Route path="/game" element={<Game />} />
             <Route path="/play" element={<Play />} />
             <Route path="/leaderboard" element={<Leaderboard />} />

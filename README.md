@@ -1,5 +1,8 @@
-Solana Swap App
-Welcome to the Sworm App! This application allows users to connect their wallets and play a game(P2E) on the BSC blockchain.
+Sworm App
+
+Welcome to the Sworm App! 
+
+This application allows users to connect their wallets and play a game(P2E) on the BSC blockchain.
 
 Features
 Wallet Integration: Connect your wallet to the app using thirdweb walletconnect to enable you to play the game and Typecript SDK(wormhole connect) for seamless bridging experience.
@@ -16,7 +19,9 @@ Wallet Integration: Connect your wallet to the app using thirdweb walletconnect 
 
 ##Prerequisites 
 
-- Node.js (v18 or later) -Yarn or npm 
+- Node.js (v18 or later)
+
+-Yarn or npm 
 
 - A Web3 wallet(preferably Metamask)
 
@@ -30,10 +35,14 @@ git clone https://github.com/Afoxcute/sworm.git
 Install Dependencies: Navigate to the project directory and install dependencies using npm or yarn:
 
 cd Sworm
+
 npm i --force
+
 **Configuration
 
 If you prefer to use your own credentials
+
+
 You can install dotenv(npm i dotenv --force).
 
 create a .env file in the root directory and add your configuration details:
@@ -41,12 +50,16 @@ create a .env file in the root directory and add your configuration details:
 Example of the credentials you can put in the .env are:
 
 RPC_URL=
+
 CLIENT_ID=
+
 CONTRACT_ADDRESS=
 
 Run the Development Server: Start the development server to run the app locally:
 
 npm start or yarn start
+
+
 Open the App: Once the server is running, open your web browser and navigate to http://localhost:3000 to view the app.
 
 Usage

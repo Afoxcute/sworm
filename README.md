@@ -15,7 +15,7 @@ Wallet Integration: Connect your wallet to the app using thirdweb walletconnect 
 
 - Claim wins: Players can withdraw tokens earned, Users can play unlimited game, Winners get double of the bet amount
 
-- Add-ons: Ability to use custom RPC, Custom tokens, custom networks, custom theme
+- Add-ons: Ability to use custom RPC, Custom tokens, custom networks, custom theme for the typescript SDK.
 
 ##Prerequisites 
 

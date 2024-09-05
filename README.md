@@ -5,6 +5,7 @@ Welcome to the Sworm App!
 This application allows users to connect their wallets and play a game(P2E) and luck-based game on the BSC blockchain.
 
 Features
+
 Wallet Integration: Connect your wallet to the app using thirdweb walletconnect to enable you to play the game and Typecript SDK(wormhole connect) for seamless bridging experience.
 
 - Token bridging: Efficient token bridge using the Typescript SDK(Wormhole connect). 

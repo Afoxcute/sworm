@@ -26,6 +26,7 @@ Wallet Integration: Connect your wallet to the app using thirdweb walletconnect 
 - A Web3 wallet(preferably Metamask)
 
 Getting Started
+
 To get started with the Sworm App, follow these steps:
 
 Clone the Repository: Clone this repository to your local machine using:
